@@ -1,6 +1,6 @@
 # AWS Labs Serverless - Nico | Udine
 
-Percorso hands-on AWS Serverless. 44 anni, 2h al giorno, bimbo di 1 anno. Obiettivo: Cloud DBA / AWS Engineer Full Remote.
+Percorso hands-on AWS Serverless. 44 anni, 2h al giorno. Obiettivo: Cloud DBA / AWS Engineer Full Remote.
 
 **Stack:** Lambda Python 3.14, API Gateway, S3, IAM, CloudWatch | Milan eu-south-1
 
